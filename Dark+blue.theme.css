@@ -946,9 +946,9 @@ button[aria-label="Send a gift"] {
   align-items: center;
   padding: 0 6px;
   height: calc(100% + 4px);
-  top: 0px;
+  top: -4px;
   width: fit-content;
-  font-size: 0px;
+  font-size: 14px;
   font-weight: 600;
   font-family: "Lato";
   color: var(--darkplus-sec);
