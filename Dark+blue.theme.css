@@ -26,9 +26,9 @@
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 145deg;
-  --watermark-filter-brightness: 70%;
-  --watermark-filter-contrast: 200%;
+  --watermark-filter-hue-rotate: 183deg;
+  --watermark-filter-brightness: 100%;
+  --watermark-filter-contrast: 75%;
   --darkplus-emoji-picker-color: 210deg;
 }
 
